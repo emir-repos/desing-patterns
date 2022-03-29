@@ -1,0 +1,17 @@
+You need to separate(or to abstract) what is different between subclasses and their superclass and put
+that in one separate place.
+
+
+1) Avoid adding method fly() to Animal because you will have to override in all subclasses because you will duplicate the code.
+  You need to separate(or to abstract) what is different between subclasses and their superclass and put
+  that in one separate place.
+
+
+2) Avoid adding FlysNotWorking interface which will all subclasses implement because you will duplicate the code.
+
+3) Avoid technics which will do that one class affects other. Superclass should not break code in subclass and vice versa.
+
+4) Use interface Flys as instance variable(field) in client class - psvm class. Create separate behaviours in separate subclasses which
+   implements Flys behaviour. This decoupling concept which means that we are encapsulating behaviours that varies! That behaviours are
+   capability to fly.
+

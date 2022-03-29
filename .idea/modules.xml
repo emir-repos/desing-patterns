@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/prototype/prototype.iml" filepath="$PROJECT_DIR$/prototype/prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype2/prototype2.iml" filepath="$PROJECT_DIR$/prototype2/prototype2.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy2/strategy2.iml" filepath="$PROJECT_DIR$/strategy2/strategy2.iml" />
     </modules>
   </component>
 </project>
