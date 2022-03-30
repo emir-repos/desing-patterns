@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UMLdiagrams/UMLdiagrams.iml" filepath="$PROJECT_DIR$/UMLdiagrams/UMLdiagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter2/adapter2.iml" filepath="$PROJECT_DIR$/adapter2/adapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder/builder.iml" filepath="$PROJECT_DIR$/builder/builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command2/command2.iml" filepath="$PROJECT_DIR$/command2/command2.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator2/decorator2.iml" filepath="$PROJECT_DIR$/decorator2/decorator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/desing-patterns.iml" filepath="$PROJECT_DIR$/.idea/desing-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
