@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/command2/command2.iml" filepath="$PROJECT_DIR$/command2/command2.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator2/decorator2.iml" filepath="$PROJECT_DIR$/decorator2/decorator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/desing-patterns.iml" filepath="$PROJECT_DIR$/.idea/desing-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade2/facade2.iml" filepath="$PROJECT_DIR$/facade2/facade2.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory2/factory2.iml" filepath="$PROJECT_DIR$/factory2/factory2.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
